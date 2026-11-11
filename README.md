@@ -83,3 +83,14 @@ For a production-style local run, use `npm run build` followed by `npm run serve
 ## Environment variables
 
 See [`.env.example`](./.env.example) for the required variable names and placeholder values. The `.env` file is ignored by Git. Keep database credentials, account passwords, and `JWT_SECRET` private.
+
+
+<img width="1917" height="903" alt="image" src="https://github.com/user-attachments/assets/51402f0f-28a9-44a4-a10c-fe9fd6c45fa9" />
+<img width="1917" height="903" alt="image" src="https://github.com/user-attachments/assets/0b40f907-7329-4773-a54e-09d3ff3888c2" />
+<img width="1917" height="903" alt="image" src="https://github.com/user-attachments/assets/238a56b2-b003-4238-83ae-0c0b88394907" />
+<img width="1917" height="903" alt="image" src="https://github.com/user-attachments/assets/042e2e80-265a-4b79-96a8-d425fda75ce0" />
+<img width="1917" height="903" alt="image" src="https://github.com/user-attachments/assets/2260208b-d079-446d-8592-7d227d7ff1c9" />
+<img width="1917" height="903" alt="image" src="https://github.com/user-attachments/assets/57af6be1-6837-4219-860d-9deb329e4625" />
+<img width="1917" height="903" alt="image" src="https://github.com/user-attachments/assets/4ed01776-2da2-46f5-b2f0-0bc95435ea09" />
+<img width="1917" height="903" alt="image" src="https://github.com/user-attachments/assets/c99ab4bf-2944-45cf-8b2b-220c64368038" />
+
